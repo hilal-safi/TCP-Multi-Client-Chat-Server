@@ -60,6 +60,10 @@ A Python-based TCP server that supports multiple clients in a chat-like environm
 2. Multiple Clients Test: Connect multiple clients and test concurrent interactions.
 3. Connection Limits: Adjust the server’s client limit and test exceeding the limit.
 
+## Report
+
+The project includes a report titled **"Report - Socket Programming Assignment.docx"**. This report provides a detailed overview of the project's design, code structure, testing procedures, challenges encountered, and potential improvements. You can refer to it for an in-depth understanding of the implementation and development process.
+
 ## Future Improvements
 
 - GUI: A graphical interface for client interactions.
