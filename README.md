@@ -69,3 +69,12 @@ The project includes a report titled **"Report - Socket Programming Assignment.d
 - GUI: A graphical interface for client interactions.
 - Encryption: Secure message transmission with basic encryption.
 - Persistent Logging: Store session data in a file or database.
+
+## Contributors
+
+This project was developed in collaboration with:
+
+- [Pranav Baral](https://github.com/pranavCSclass)
+
+We worked together on the design, coding, testing and the final report of this project.
+
