@@ -1,6 +1,6 @@
 # TCP-Multi-Client-Chat-Server
 
-A Python-based TCP server that supports multiple clients in a chat-like environment. Using socket programming and multi-threading, this project enables clients to connect, communicate, and manage sessions in real-time.
+A Python-based TCP server, created by Pranav Baral and Hilal Safi, that supports multiple clients in a chat-like environment. Using socket programming and multi-threading, this project enables clients to connect, communicate, and manage sessions in real-time.
 
 ## Features
 
